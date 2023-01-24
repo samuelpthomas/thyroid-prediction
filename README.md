@@ -1,1 +1,1 @@
-# thyroid-prediction
+# Thyroid-prediction
